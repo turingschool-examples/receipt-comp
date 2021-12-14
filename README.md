@@ -1,6 +1,6 @@
 # Instructions
 
-- Clone down this repo 
+- Fork and clone this repo 
 - Write HTML and CSS to match the following comp
 - Colors, font, and image are provided for you!
 
